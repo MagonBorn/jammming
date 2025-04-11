@@ -1,5 +1,6 @@
 import './App.css';
 import SearchBarContainer from './components/searchbar/SearchBarContainer'
+import SearchResultsContainer from '/.components/searchResults/searchResultsContainer'
 
 function App() {
   return (
